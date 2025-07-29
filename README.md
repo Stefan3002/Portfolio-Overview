@@ -75,6 +75,17 @@ Applications deployed and used in real-world settings.
 
 ---
 
+## 🧪 Custom WordPress PHP Plugins
+PHP plugins made for WordPress to achieve custom logic and functionality.
+
+- **ALSATION Forms**  
+  🤖 PHP | ⚙️ WordPress  
+  - [Code](https://github.com/Stefan3002/SRIM_ALSATION_PLUGIN)
+  - [Research Article](https://www.researchgate.net/publication/391438447_Custom_WordPress_Plugin_for_Native-Like_Digital_Health_Literacy_Questionnaires_Supporting_the_ALSATION_Study)  
+  PHP custom WordPress plugin used to retain the original tabular look and feel of a translated form. Part of the [ALSATION](https://www.researchgate.net/publication/386052222_ALSATION_Study_Protocol_Romanian_Translation_of_Three_Health_Literacy_Surveys) study.
+
+---
+
 ## 🏢 Industry Collaborations
 
 - **Nokia Overflow**  
