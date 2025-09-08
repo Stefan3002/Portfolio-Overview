@@ -104,6 +104,21 @@ PHP plugins made for WordPress to achieve custom logic and functionality.
 
 ---
 
+## 📄 Academic Studies
+Repositories connected to published academic research.
+
+- **Sudoku Solvers: From Brute Force to Logic**  
+  🔢 Python | 📊 Statistical Analysis | 📄 Academic Research  
+  - [Code](https://github.com/Stefan3002/Sudoku-solvers)  
+  Used in the paper *"From Brute Force to Logic: Analyzing Diverse Approaches for Solving Sudoku Puzzles"* (SYNASC 2025). Implements and benchmarks multiple Sudoku-solving algorithms with rigorous statistical evaluation.
+
+- **Microdeploy**  
+  🐘 PHP | 🔌 WordPress | 📄 Academic Research  
+  - [Code](https://github.com/Stefan3002/microdeploy)  
+  Evaluates micro-frontend integration in WordPress. Published in international conferences, including AINA 2025.
+
+---
+
 ## 🧠 Skills at a Glance
 
 ### 👨‍💻 Languages
